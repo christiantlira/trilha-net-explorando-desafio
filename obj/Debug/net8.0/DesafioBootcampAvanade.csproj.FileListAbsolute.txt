@@ -1,0 +1,14 @@
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\bin\Debug\net8.0\DesafioBootcampAvanade.exe
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\bin\Debug\net8.0\DesafioBootcampAvanade.deps.json
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\bin\Debug\net8.0\DesafioBootcampAvanade.runtimeconfig.json
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\bin\Debug\net8.0\DesafioBootcampAvanade.dll
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\bin\Debug\net8.0\DesafioBootcampAvanade.pdb
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\obj\Debug\net8.0\DesafioBootcampAvanade.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\obj\Debug\net8.0\DesafioBootcampAvanade.AssemblyInfoInputs.cache
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\obj\Debug\net8.0\DesafioBootcampAvanade.AssemblyInfo.cs
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\obj\Debug\net8.0\DesafioBootcampAvanade.csproj.CoreCompileInputs.cache
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\obj\Debug\net8.0\DesafioBootcampAvanade.dll
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\obj\Debug\net8.0\refint\DesafioBootcampAvanade.dll
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\obj\Debug\net8.0\DesafioBootcampAvanade.pdb
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\obj\Debug\net8.0\DesafioBootcampAvanade.genruntimeconfig.cache
+C:\repos\Bootcamp Avanade\DesafioBootcampAvanade\obj\Debug\net8.0\ref\DesafioBootcampAvanade.dll
